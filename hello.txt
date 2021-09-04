@@ -1,6 +1,6 @@
 hello atgui hello git ! 222
 hello atgui hello git ! 333
-hello atgui hello git !
+ihello atgui hello git !
 hello atgui hello git !
 hello atgui hello git !
 hello atgui hello git !
@@ -14,3 +14,6 @@ hello atgui hello git ! master test
 hello atgui hello git ! hot-fix test
 albert come on baby!
 update from git hub
+
+hao will help you to update code 
+-developed by Hao
